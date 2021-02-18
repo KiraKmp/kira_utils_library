@@ -1,0 +1,3 @@
+include ':kmpCustomViews'
+include ':app'
+rootProject.name = "RoundCornerButton"
